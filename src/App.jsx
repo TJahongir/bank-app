@@ -25,6 +25,7 @@ const App = () => {
 			<div className={`bg-primary ${styles.flexStart}`}>
 				<div className={`${styles.boxWidth}`}>
 					<Hero />
+					Happy New Yearrr
 				</div>
 			</div>
 
